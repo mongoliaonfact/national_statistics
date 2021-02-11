@@ -1,0 +1,367 @@
+﻿Index,Улс,National,Region,Аймаг,ProvinceName,Сум,Soum,zCode,Latitude,Longitude,neighbor1,neighbor2,neighbor3,neighbor4,neighbor5,neighbor6,neighbor7,neighbor8,neighbor9
+1,Улсын дүн,National,,,,,,,,,,,,,,,,,
+2,Баруун бүс,National,,,,,,,,,,,,,,,,,
+3,Завхан,National,Western,Завхан,Zavhan,,,,,,,,,,,,,,
+4,Улиастай,National,Western,Завхан,Zavhan,Улиастай,Uliastai,81090,47.73172015,96.85606955,81190,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+5,Алдархаан,National,Western,Завхан,Zavhan,Алдархаан,Aldarhaan,81190,47.63988925,96.53313165,81130,81060,81070,81120,81090,NaN,NaN,NaN,NaN
+6,Асгат,National,Western,Завхан,Zavhan,Асгат,Asgat,81170,49.4066719,96.6084909,81160,81180,67320,NaN,NaN,NaN,NaN,NaN,NaN
+7,Баянтэс,National,Western,Завхан,Zavhan,Баянтэс,Bayantes,81160,49.70180735,96.36022565,81250,81170,81180,85020,67320,NaN,NaN,NaN,NaN
+8,Баянхайрхан,National,Western,Завхан,Zavhan,Баянхайрхан,Bayanhairhan,81180,49.3807191,96.3259792,81250,81160,81170,81230,81210,67320,85010,NaN,NaN
+9,Дөрвөлжин,National,Western,Завхан,Zavhan,Дөрвөлжин,Dorvoljin,81280,47.64824795,95.0011612,81290,81270,81240,81130,81190,82150,82180,84030,84020
+10,Завханмандал,National,Western,Завхан,Zavhan,Завханмандал,Zavhanmandal,81270,48.32438525,95.10855675,81290,81280,81240,81260,81220,NaN,NaN,NaN,NaN
+11,Идэр,National,Western,Завхан,Zavhan,Идэр,Ider,81060,48.21905385,97.37515205,81050,81030,81070,81190,81130,NaN,NaN,NaN,NaN
+12,Их-Уул,National,Western,Завхан,Zavhan,Их-Уул,Ih-Uul,81010,48.7197909,98.79326825,81030,67320,67300,67220,67240,67250,67270,NaN,NaN
+13,Нөмрөг,National,Western,Завхан,Zavhan,Нөмрөг,Nomrog,81110,48.8768243,96.96344375,81180,81210,81130,81050,67320,NaN,NaN,NaN,NaN
+14,Отгон,National,Western,Завхан,Zavhan,Отгон,Otgon,81070,47.21006425,97.60747425,81030,81060,81190,81120,81140,82010,64260,64230,65270
+15,Сантмаргац,National,Western,Завхан,Zavhan,Сантмаргац,Santmargats,81260,48.5886301,95.4351211,81290,81270,81220,81230,85010,85030,NaN,NaN,NaN
+16,Сонгино,National,Western,Завхан,Zavhan,Сонгино,Songino,81230,49.02281385,95.92982775,81180,81210,81220,81260,85010,NaN,NaN,NaN,NaN
+17,Тосонцэнгэл,National,Western,Завхан,Zavhan,Тосонцэнгэл,Tosontsengel,81030,48.76222535,98.2719402,81050,81060,81070,81010,65270,67320,NaN,NaN,NaN
+18,Түдэвтэй,National,Western,Завхан,Zavhan,Түдэвтэй,Tudevtei,81210,48.98444105,96.5437747,81180,81230,81110,81220,81240,81130,NaN,NaN,NaN
+19,Тэлмэн,National,Western,Завхан,Zavhan,Тэлмэн,Telmen,81050,48.6448185,97.6111222,81110,81130,81060,81030,67320,NaN,NaN,NaN,NaN
+20,Тэс,National,Western,Завхан,Zavhan,Тэс,Tes,81250,49.65709825,95.78988075,81160,81180,85020,85010,NaN,NaN,NaN,NaN,NaN
+21,Ургамал,National,Western,Завхан,Zavhan,Ургамал,Urgamal,81290,48.5613933,94.13223275,81280,81260,81270,85050,85100,NaN,NaN,NaN,NaN
+22,Цагаанхайрхан,National,Western,Завхан,Zavhan,Цагаанхайрхан,Tsagaanhairhan,81120,47.496763,96.7974472,81190,81070,81140,81150,82210,NaN,NaN,NaN,NaN
+23,Цагаанчулуут,National,Western,Завхан,Zavhan,Цагаанчулуут,Tsagaanchuluut,81150,47.1124004,96.6726923,81120,81140,82110,82070,NaN,NaN,NaN,NaN,NaN
+24,Цэцэн-Уул,National,Western,Завхан,Zavhan,Цэцэн-Уул,Tsetsen-Uul,81220,48.75115225,96.0000801,81230,81260,81270,81240,81210,NaN,NaN,NaN,NaN
+25,Шилүүстэй,National,Western,Завхан,Zavhan,Шилүүстэй,Shiluustei,81140,46.80076425,97.19686025,81150,81120,81070,82010,NaN,NaN,NaN,NaN,NaN
+26,Эрдэнэхайрхан,National,Western,Завхан,Zavhan,Эрдэнэхайрхан,Erdenehairhan,81240,48.12390545,95.71370595,81280,81270,81220,81210,81130,NaN,NaN,NaN,NaN
+27,Яруу,National,Western,Завхан,Zavhan,Яруу,Yaruu,81130,48.11528215,96.76644085,81240,81210,81110,81050,81060,81190,NaN,NaN,NaN
+28,Говь-Алтай,National,Western,Говь-Алтай,Govi-Altai,,,82000,,,,,,,,,,,
+29,Есөнбулаг,National,Western,Говь-Алтай,Govi-Altai,Есөнбулаг,Esonbulag,82080,46.18499435,96.26916195,82070,82140,82100,82040,82010,NaN,NaN,NaN,NaN
+30,Алтай,National,Western,Говь-Алтай,Govi-Altai,Алтай,Altai,82130,46.36463,96.25139235,82200,82170,82120,82050,NaN,NaN,NaN,NaN,NaN
+31,Баян-Уул,National,Western,Говь-Алтай,Govi-Altai,Баян-Уул,Bayan-Uul,82150,46.9931036,95.19953735,82110,82140,82190,82180,84010,81280,81190,NaN,NaN
+32,Бигэр,National,Western,Говь-Алтай,Govi-Altai,Бигэр,Biger,82040,45.7036609,97.18003755,82080,82100,82050,82030,82020,82010,NaN,NaN,NaN
+33,Бугат,National,Western,Говь-Алтай,Govi-Altai,Бугат,Bugat,82200,45.5586999,94.3663144,82210,82170,82130,NaN,NaN,NaN,NaN,NaN,NaN
+34,Дарви,National,Western,Говь-Алтай,Govi-Altai,Дарви,Darvi,82190,46.48317675,94.1480202,82150,82140,82170,82210,84010,NaN,NaN,NaN,NaN
+35,Дэлгэр,National,Western,Говь-Алтай,Govi-Altai,Дэлгэр,Delger,82010,46.35347385,97.3696375,82070,82080,82040,82020,81140,81070,64260,64220,NaN
+36,Жаргалан,National,Western,Говь-Алтай,Govi-Altai,Жаргалан,Jargalan,82110,46.98247645,95.9259653,82150,82140,82070,81190,81120,81150,NaN,NaN,NaN
+37,Тайшир,National,Western,Говь-Алтай,Govi-Altai,Тайшир,Taishir,82070,46.70967665,96.52553565,82140,82080,82010,82110,81150,81140,NaN,NaN,NaN
+38,Тонхил,National,Western,Говь-Алтай,Govi-Altai,Тонхил,Tonhil,82210,46.30872835,93.9058113,82190,82170,82200,84080,84050,NaN,NaN,NaN,NaN
+39,Төгрөг,National,Western,Говь-Алтай,Govi-Altai,Төгрөг,Togrog,82170,45.82796175,94.81510165,82140,82190,82210,82200,82130,82120,82100,NaN,NaN
+40,Халиун,National,Western,Говь-Алтай,Govi-Altai,Халиун,Haliun,82100,45.9271995,96.1620641,82080,82140,82170,82120,82050,82040,NaN,NaN,NaN
+41,Хөхморьт,National,Western,Говь-Алтай,Govi-Altai,Хөхморьт,Hohmorit,82180,47.41102425,94.3629697,82150,81280,84030,84010,NaN,NaN,NaN,NaN,NaN
+42,Цогт,National,Western,Говь-Алтай,Govi-Altai,Цогт,Tsogt,82050,45.3525653,96.6474152,82130,82120,82100,82040,82030,NaN,NaN,NaN,NaN
+43,Цээл,National,Western,Говь-Алтай,Govi-Altai,Цээл,Tseel,82120,45.5553471,95.84996225,82100,82170,82130,82050,NaN,NaN,NaN,NaN,NaN
+44,Чандмань,National,Western,Говь-Алтай,Govi-Altai,Чандмань,Chandmani,82020,45.3383284,97.97422885,82030,82040,82010,64210,NaN,NaN,NaN,NaN,NaN
+45,Шарга,National,Western,Говь-Алтай,Govi-Altai,Шарга,Sharga,82140,46.26937585,95.27223575,82110,82150,82190,82170,82100,82080,82070,NaN,NaN
+46,Эрдэнэ,National,Western,Говь-Алтай,Govi-Altai,Эрдэнэ,Erdene,82030,45.1608129,97.70512825,82020,82040,82050,64250,NaN,NaN,NaN,NaN,NaN
+47,Баян-Өлгий,National,Western,Баян-Өлгий,Bayan-Ulgii,,,83000,,,,,,,,,,,
+48,Өлгий,National,Western,Баян-Өлгий,Bayan-Ulgii,Өлгий,Ulgii,83030,48.938844,91.16485115,83040,85230,85210,84180,NaN,NaN,NaN,NaN,NaN
+49,Алтай,National,Western,Баян-Өлгий,Bayan-Ulgii,Алтай,Altai,83050,48.9482515,90.01504185,83120,83040,83080,83140,83160,83170,83100,NaN,NaN
+50,Алтанцөгц,National,Western,Баян-Өлгий,Bayan-Ulgii,Алтанцөгц,Altantsogts,83010,46.925091,91.08181005,83060,84200,84190,84130,84210,NaN,NaN,NaN,NaN
+51,Баяннуур,National,Western,Баян-Өлгий,Bayan-Ulgii,Баяннуур,Bayannuur,83140,48.57683375,89.5481122,83160,83050,83080,83150,NaN,NaN,NaN,NaN,NaN
+52,Бугат,National,Western,Баян-Өлгий,Bayan-Ulgii,Бугат,Bugat,83060,47.86811305,90.69866185,83150,83080,83010,84170,84200,NaN,NaN,NaN,NaN
+53,Булган,National,Western,Баян-Өлгий,Bayan-Ulgii,Булган,Bulgan sum,83100,49.616688,90.23747205,83050,83040,85220,85230,NaN,NaN,NaN,NaN,NaN
+54,Буянт,National,Western,Баян-Өлгий,Bayan-Ulgii,Буянт,Buyant,83160,48.9057732,89.6526003,83170,83050,83120,83140,83150,NaN,NaN,NaN,NaN
+55,Дэлүүн,National,Western,Баян-Өлгий,Bayan-Ulgii,Дэлүүн,Deluun,83080,48.4023371,90.29040815,83150,83140,83050,83040,83060,84180,NaN,NaN,NaN
+56,Ногооннуур,National,Western,Баян-Өлгий,Bayan-Ulgii,Ногооннуур,Nogoonnuur,83170,49.0416089,89.43864585,83190,83160,83050,,NaN,NaN,NaN,NaN,NaN
+57,Сагсай,National,Western,Баян-Өлгий,Bayan-Ulgii,Сагсай,Sarsai,83190,48.93766755,89.1360712,83170,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+58,Толбо,National,Western,Баян-Өлгий,Bayan-Ulgii,Толбо,Tolbo,83120,48.97014775,89.95948795,83050,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+59,Улаанхус,National,Western,Баян-Өлгий,Bayan-Ulgii,Улаанхус,Ulaanhus,83150,48.29946635,89.51248155,83160,83140,83080,83060,NaN,NaN,NaN,NaN,NaN
+60,Цэнгэл,National,Western,Баян-Өлгий,Bayan-Ulgii,Цэнгэл,Tsengel,83040,49.06340605,90.45709135,83050,83100,83030,83080,84180,NaN,NaN,NaN,NaN
+61,Ховд,National,Western,Ховд,Hovd,,,84000,,,,,,,,,,,
+62,Жаргалант,National,Western,Ховд,Hovd,Жаргалант,Jargalant,84140,47.98144035,91.65378565,84090,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+63,Алтай,National,Western,Ховд,Hovd,Алтай,Altai,84080,45.8071145,92.28978035,84130,84070,84050,82210,NaN,NaN,NaN,NaN,NaN
+64,Булган,National,Western,Ховд,Hovd,Булган,Bulgan sum,84210,45.8658944,91.2184524,84130,83010,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+65,Буянт,National,Western,Ховд,Hovd,Буянт,Buyant,84010,46.9358173,93.6203385,84030,84060,84070,84050,82190,82150,82180,NaN,NaN
+66,Дарви,National,Western,Ховд,Hovd,Дарви,Darvi,84020,48.3243946,92.8729195,84100,84090,84030,85150,85100,81280,NaN,NaN,NaN
+67,Дөргөн,National,Western,Ховд,Hovd,Дөргөн,Dorgon,84200,47.51872215,91.6305471,84170,84090,84110,84190,83010,83060,NaN,NaN,NaN
+68,Дуут,National,Western,Ховд,Hovd,Дуут,Duut,84060,47.1084864,92.8450728,84110,84030,84010,84070,NaN,NaN,NaN,NaN,NaN
+69,Зэрэг,National,Western,Ховд,Hovd,Зэрэг,Zereg,84110,47.42123395,92.22348695,84030,84090,84200,84190,84070,84060,NaN,NaN,NaN
+70,Манхан,National,Western,Ховд,Hovd,Манхан,Manhan,84190,46.91666635,92.116667,84200,84110,84070,84130,83010,NaN,NaN,NaN,NaN
+71,Мөнххайрхан,National,Western,Ховд,Hovd,Мөнххайрхан,Monhhairhan,84070,46.6930771,92.7954411,84060,84110,84190,84130,84080,84050,84010,NaN,NaN
+72,Мөст,National,Western,Ховд,Hovd,Мөст,Most,84100,48.23859365,91.92436695,84180,84170,84020,84090,85210,85150,NaN,NaN,NaN
+73,Мянгад,National,Western,Ховд,Hovd,Мянгад,Myangad,84130,46.06376775,92.03007815,84210,84080,84070,84190,83010,NaN,NaN,NaN,NaN
+74,Үенч,National,Western,Ховд,Hovd,Үенч,Uench,84170,47.9787318,91.6405678,84180,84100,84090,84200,83060,NaN,NaN,NaN,NaN
+75,Ховд,National,Western,Ховд,Hovd,Ховд,Hovd sum,84050,46.5901897,93.26714515,84010,84060,84070,84080,82210,NaN,NaN,NaN,NaN
+76,Цэцэг,National,Western,Ховд,Hovd,Цэцэг,Tsetseg,84030,47.69052015,92.95083495,84020,84090,84110,84060,84010,81280,82180,NaN,NaN
+77,Чандмань,National,Western,Ховд,Hovd,Чандмань,Chandmani,84180,48.5017057,91.44916525,84100,84170,83080,83040,83030,NaN,NaN,NaN,NaN
+78,Эрдэнэбүрэн,National,Western,Ховд,Hovd,Эрдэнэбүрэн,Erdeneburen,84090,48.1717235,91.76676035,84140,84170,84100,84020,84030,84110,84200,NaN,NaN
+79,Увс,National,Western,Увс,Uvs,,,85000,,,,,,,,,,,
+80,Улаангом,National,Western,Увс,Uvs,Улаангом,Ulaangom,85160,49.9902834,92.05846825,85130,85230,85220,85200,85190,85120,85060,85090,85110
+81,Баруунтуруун,National,Western,Увс,Uvs,Баруунтуруун,Baruunturuun,85020,49.6412964,94.39272885,85040,85080,85050,85030,85010,81250,81160,NaN,NaN
+82,Бөхмөрөн,National,Western,Увс,Uvs,Бөхмөрөн,Bohmoron,85220,49.8462756,90.74162,85190,85200,85130,85230,83100,NaN,NaN,NaN,NaN
+83,Давст,National,Western,Увс,Uvs,Давст,Davst,85120,50.61068205,92.40145685,85190,85160,85060,85090,85110,85130,NaN,NaN,NaN
+84,Завхан,National,Western,Увс,Uvs,Завхан,Zavhan sum,85100,48.81884535,93.10097705,85150,85110,85090,85080,85050,81290,81280,84020,NaN
+85,Зүүнговь,National,Western,Увс,Uvs,Зүүнговь,Zuungovi,85040,49.9052761,93.79277225,85060,85090,85080,85020,NaN,NaN,NaN,NaN,NaN
+86,Зүүнхангай,National,Western,Увс,Uvs,Зүүнхангай,Zuunhangai,85010,49.30735685,95.4528666,85030,85020,81250,81180,81230,81260,NaN,NaN,NaN
+87,Малчин,National,Western,Увс,Uvs,Малчин,Malchin,85090,49.725311,93.2684326,85060,85040,85080,85050,85100,85110,85130,85160,85120
+88,Наранбулаг,National,Western,Увс,Uvs,Наранбулаг,Naranbulag,85110,49.4628128,92.47830485,85130,85160,85120,85060,85090,85080,85050,85100,85150
+89,Өлгий,National,Western,Увс,Uvs,Өлгий,Ulgii,85150,49.031874,92.04002385,85210,85110,85100,84020,84100,NaN,NaN,NaN,NaN
+90,Өмнөговь,National,Western,Увс,Uvs,Өмнөговь,Omnogovi sum,85210,49.1044153,91.72086235,85230,85130,85110,85150,84100,83030,NaN,NaN,NaN
+91,Өндөрхангай,National,Western,Увс,Uvs,Өндөрхангай,Ondorhangai,85030,49.2700715,94.8585748,85050,85020,85010,81260,81290,NaN,NaN,NaN,NaN
+92,Сагил,National,Western,Увс,Uvs,Сагил,Sagil,85190,50.3387223,91.6065359,85120,85160,85200,85220,NaN,NaN,NaN,NaN,NaN
+93,Тариалан,National,Western,Увс,Uvs,Тариалан,Tarialan,85130,49.77967015,91.90548415,85160,85120,85060,85090,85110,85210,85230,NaN,NaN
+94,Түргэн,National,Western,Увс,Uvs,Түргэн,Turgen,85200,50.0987319,91.67507165,85190,85220,85160,NaN,NaN,NaN,NaN,NaN,NaN
+95,Тэс,National,Western,Увс,Uvs,Тэс,Tes,85060,50.4775807,93.59735735,85120,85160,85130,85110,85090,85040,NaN,NaN,NaN
+96,Ховд,National,Western,Увс,Uvs,Ховд,Hovd sum,85230,49.2812161,90.91044895,85220,85160,85130,85210,83030,83100,NaN,NaN,NaN
+97,Хяргас,National,Western,Увс,Uvs,Хяргас,Hyargas,85080,49.6697657,93.78139975,85100,85090,85040,85020,85050,NaN,NaN,NaN,NaN
+98,Цагаанхайрхан,National,Western,Увс,Uvs,Цагаанхайрхан,Tsagaanhairhan,85050,49.40628095,94.2479753,85100,85110,85090,85080,85020,85030,81290,NaN,NaN
+99,Хангайн бүс,National,Northern,,,,,,,,,,,,,,,,
+100,Орхон,National,Northern,Орхон,Orhon,,,61000,,,,,,,,,,,
+101,Баян-Өндөр,National,Northern,Орхон,Orhon,Баян-Өндөр,Bayan-Ondor,61020,49.0411905,104.1282676,61010,63030,63040,43170,NaN,NaN,NaN,NaN,NaN
+102,Жаргалант,National,Northern,Орхон,Orhon,Жаргалант,Jargalant,61010,49.04893755,104.4169542,61020,63030,63020,63090,63040,NaN,NaN,NaN,NaN
+103,Өвөрхангай,National,Northern,Өвөрхангай,Ovorhangai,,,62000,,,,,,,,,,,
+104,Арвайхээр,National,Northern,Өвөрхангай,Ovorhangai,Арвайхээр,Arvaiheer,62160,46.260349,102.7790738,62140,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+105,Баруунбаян-Улаан,National,Northern,Өвөрхангай,Ovorhangai,Баруунбаян-Улаан,Baruunbayan-Ulaan,62270,45.1778164,101.4200735,62260,62240,62180,62190,64050,NaN,NaN,NaN,NaN
+106,Бат-Өлзий,National,Northern,Өвөрхангай,Ovorhangai,Бат-Өлзий,Bat-Ulzii,62210,46.8186505,102.2412801,62110,62120,62220,65040,65080,64020,NaN,NaN,NaN
+107,Баянгол,National,Northern,Өвөрхангай,Ovorhangai,Баянгол,Bayangol,62060,45.8085803,103.4490252,62040,62120,62140,62080,48180,NaN,NaN,NaN,NaN
+108,Баян-Өндөр,National,Northern,Өвөрхангай,Ovorhangai,Баян-Өндөр,Bayan-Ondor,62010,46.4980815,104.1196633,62020,62030,62040,48150,41280,NaN,NaN,NaN,NaN
+109,Богд,National,Northern,Өвөрхангай,Ovorhangai,Богд,Bogd,62190,44.6696138,102.172444,62270,62180,62080,64010,46130,46110,NaN,NaN,NaN
+110,Бүрд,National,Northern,Өвөрхангай,Ovorhangai,Бүрд,Burd,62020,46.9809969,103.7868977,62090,62030,62010,41290,41280,63070,63120,NaN,NaN
+111,Гучин-Ус,National,Northern,Өвөрхангай,Ovorhangai,Гучин-Ус,Guchin-Us,62180,45.4552519,102.4217605,62190,62270,62240,62140,62080,NaN,NaN,NaN,NaN
+112,Есөн зүйл,National,Northern,Өвөрхангай,Ovorhangai,Есөн зүйл,Eson Zuil,62030,46.75885505,103.5166597,62110,62090,62020,62010,62040,62050,NaN,NaN,NaN
+113,Зүүнбаян-Улаан,National,Northern,Өвөрхангай,Ovorhangai,Зүүнбаян-Улаан,Zuunbayan-Ulaan,62120,46.5251501,102.5947952,62220,62210,62110,62050,62040,62060,62140,NaN,NaN
+114,Нарийнтээл,National,Northern,Өвөрхангай,Ovorhangai,Нарийнтээл,Nariinteel,62260,45.9641565,101.4556933,62220,62240,62270,64030,64050,NaN,NaN,NaN,NaN
+115,Өлзийт,National,Northern,Өвөрхангай,Ovorhangai,Өлзийт,Ulziit,62050,46.61085895,103.5500479,62120,62110,62030,62040,NaN,NaN,NaN,NaN,NaN
+116,Сант,National,Northern,Өвөрхангай,Ovorhangai,Сант,Sant,62040,46.0906438,103.840456,62010,62030,62050,62120,62060,48180,48150,NaN,NaN
+117,Тарагт,National,Northern,Өвөрхангай,Ovorhangai,Тарагт,Taragt,62140,46.3036887,102.4439049,62240,62220,62120,62060,62080,62180,62160,NaN,NaN
+118,Төгрөг,National,Northern,Өвөрхангай,Ovorhangai,Төгрөг,Togrog,62080,45.5383084,102.9975987,62060,62140,62180,62190,46090,48180,NaN,NaN,NaN
+119,Уянга,National,Northern,Өвөрхангай,Ovorhangai,Уянга,Uyanga,62220,46.463372,102.2745609,62210,62120,62140,62240,62260,64020,64030,NaN,NaN
+120,Хайрхандулаан,National,Northern,Өвөрхангай,Ovorhangai,Хайрхандулаан,Hairhandulaan,62240,45.9590551,102.0600272,62260,62220,62140,62180,62270,NaN,NaN,NaN,NaN
+121,Хархорин,National,Northern,Өвөрхангай,Ovorhangai,Хархорин,Harhorin,62090,47.1979281,102.8273105,62110,62030,62020,65010,65040,NaN,NaN,NaN,NaN
+122,Хужирт,National,Northern,Өвөрхангай,Ovorhangai,Хужирт,Hujirt,62110,46.9125402,102.7695466,62210,62090,62030,62050,62120,65040,NaN,NaN,NaN
+123,Булган,National,Northern,Булган,Bulgan,,,63000,,,,,,,,,,,
+124,Булган,National,Northern,Булган,Bulgan,Булган сум,Bulgan sum,63080,48.8205487,103.5203076,63040,63090,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+125,Баян-Агт,National,Northern,Булган,Bulgan,Баян-Агт,Bayan-Agt,63180,49.03662975,102.0916127,63140,63160,67010,67050,67060,65190,65060,NaN,NaN
+126,Баяннуур,National,Northern,Булган,Bulgan,Баяннуур,Bayannuur,63010,47.8352409,104.4317865,63060,41270,41240,41250,NaN,NaN,NaN,NaN,NaN
+127,Бугат,National,Northern,Булган,Bulgan,Бугат,Bugat,63090,49.0641906,103.6728287,63080,63140,63020,63040,61020,NaN,NaN,NaN,NaN
+128,Бүрэгхангай,National,Northern,Булган,Bulgan,Бүрэгхангай,Bureghangai,63050,48.25001025,103.8792086,63040,63110,63060,41270,43160,NaN,NaN,NaN,NaN
+129,Гурванбулаг,National,Northern,Булган,Bulgan,Гурванбулаг,Gurvanbulag,63060,47.8500864,104.0463639,63070,63120,63110,63050,63010,41270,41290,NaN,NaN
+130,Дашинчилэн,National,Northern,Булган,Bulgan,Дашинчилэн,Dashinchilen,63150,48.2741358,102.9762697,63160,63040,63110,63120,65030,NaN,NaN,NaN,NaN
+131,Могод,National,Northern,Булган,Bulgan,Могод,Mogod,63040,48.6326788,103.5428381,63090,63160,63150,63110,63050,63080,61010,61020,NaN
+132,Орхон,National,Northern,Булган,Bulgan,Орхон,Orhon,63070,47.37580095,103.9472723,63120,63060,65010,62020,41290,NaN,NaN,NaN,NaN
+133,Рашаант,National,Northern,Булган,Bulgan,Рашаант,Rashaant,63160,48.66548475,102.6268529,63180,63140,63040,63150,65060,NaN,NaN,NaN,NaN
+134,Сайхан,National,Northern,Булган,Bulgan,Сайхан,Saihan,63020,49.45166465,103.9854669,63100,63140,63090,63030,61020,43100,43110,NaN,NaN
+135,Сэлэнгэ,National,Northern,Булган,Bulgan,Сэлэнгэ,Selenge sum,63100,49.9485656,102.6682234,63020,63140,67030,67010,11,NaN,NaN,NaN,NaN
+136,Тэшиг,National,Northern,Булган,Bulgan,Тэшиг,Teshig,63030,49.31463085,104.3850518,63020,61020,61010,43170,NaN,NaN,NaN,NaN,NaN
+137,Хангал,National,Northern,Булган,Bulgan,Хангал,Hangal,63110,48.29629735,103.4366656,63150,63040,63050,63060,63120,NaN,NaN,NaN,NaN
+138,Хишиг-Өндөр,National,Northern,Булган,Bulgan,Хишиг-Өндөр,Hishig-Ondor,63120,47.73952415,103.4833146,63150,63110,63060,63070,65010,65020,NaN,NaN,NaN
+139,Хутаг-Өндөр,National,Northern,Булган,Bulgan,Хутаг-Өндөр,Hutag-Ondor,63140,49.3922042,102.6972771,63100,63020,63090,63160,63180,67010,NaN,NaN,NaN
+140,Баянхонгор,National,Northern,Баянхонгор,Bayanhongor,,,64000,,,,,,,,,,,
+141,Баянхонгор сум,National,Northern,Баянхонгор,Bayanhongor,Баянхонгор сум,Bayanhongor sum,64090,46.1798196,100.7116271,64080,64020,64030,NaN,NaN,NaN,NaN,NaN,NaN
+142,Баацагаан,National,Northern,Баянхонгор,Bayanhongor,Баацагаан,Baatsagaan,64150,45.56048695,99.42618365,64220,64170,64080,64070,64210,NaN,NaN,NaN,NaN
+143,Баянбулаг,National,Northern,Баянхонгор,Bayanhongor,Баянбулаг,Bayanbulag,64260,46.80528245,98.09967045,64230,64240,81070,82010,NaN,NaN,NaN,NaN,NaN
+144,Баянговь,National,Northern,Баянхонгор,Bayanhongor,Баянговь,Bayangovi,64130,44.73612325,100.3967142,64010,64050,64070,64210,64190,46150,NaN,NaN,NaN
+145,Баянлиг,National,Northern,Баянхонгор,Bayanhongor,Баянлиг,Bayanlig,64010,44.5442686,100.8335496,64050,64130,46150,62190,NaN,NaN,NaN,NaN,NaN
+146,Баян-Овоо,National,Northern,Баянхонгор,Bayanhongor,Баян-Овоо,Bayan-Ovoo,64080,46.2864896,100.4541349,64110,64170,64150,64090,64030,64070,NaN,NaN,NaN
+147,Баян-Өндөр,National,Northern,Баянхонгор,Bayanhongor,Баян-Өндөр,Bayan-Ondor,64250,44.80056535,98.658471,64210,64190,82030,NaN,NaN,NaN,NaN,NaN,NaN
+148,Баянцагаан,National,Northern,Баянхонгор,Bayanhongor,Баянцагаан,Bayantsagaan,64210,45.01684685,98.9284087,64220,64150,64070,64130,64190,64250,82020,NaN,NaN
+149,Богд,National,Northern,Баянхонгор,Bayanhongor,Богд,Bogd,64050,45.20109,100.7643271,64030,64070,64130,64010,62270,62260,NaN,NaN,NaN
+150,Бөмбөгөр,National,Northern,Баянхонгор,Bayanhongor,Бөмбөгөр,Bombogor,64170,46.20360845,99.58493,64220,64200,64110,64080,64150,NaN,NaN,NaN,NaN
+151,Бууцагаан,National,Northern,Баянхонгор,Bayanhongor,Бууцагаан,Buutsagaan,64220,46.16699115,98.6937046,64240,64200,64170,64150,64210,82010,NaN,NaN,NaN
+152,Галуут,National,Northern,Баянхонгор,Bayanhongor,Галуут,Galuut,64110,46.69978835,100.1379992,64180,64200,64170,64020,64080,65170,65220,NaN,NaN
+153,Гурванбулаг,National,Northern,Баянхонгор,Bayanhongor,Гурванбулаг,Gurvanbulag,64230,47.23346835,98.5589932,64180,64200,64240,64260,65250,65270,81070,NaN,NaN
+154,Жаргалант,National,Northern,Баянхонгор,Bayanhongor,Жаргалант,Jargalant,64180,47.01792055,99.4809866,64230,64200,64110,65220,65250,NaN,NaN,NaN,NaN
+155,Жинст,National,Northern,Баянхонгор,Bayanhongor,Жинст,Jinst,64070,45.40528805,100.5785466,64080,64030,64050,64130,64210,64150,NaN,NaN,NaN
+156,Заг,National,Northern,Баянхонгор,Bayanhongor,Заг,Zag,64200,46.94179505,99.1656446,64230,64180,64110,64170,64220,64240,NaN,NaN,NaN
+157,Өлзийт,National,Northern,Баянхонгор,Bayanhongor,Өлзийт,Ulziit,64030,46.06286815,100.8211899,64020,64080,64090,64070,64050,62260,62220,NaN,NaN
+158,Хүрээмарал,National,Northern,Баянхонгор,Bayanhongor,Хүрээмарал,Hureemaral,64240,46.4084662,98.2827686,64260,64230,64200,64220,82010,NaN,NaN,NaN,NaN
+159,Шинэжинст,National,Northern,Баянхонгор,Bayanhongor,Шинэжинст,Shinejinst,64190,44.54261225,99.2747354,64130,64210,64250,46150,NaN,NaN,NaN,NaN,NaN
+160,Эрдэнэцогт,National,Northern,Баянхонгор,Bayanhongor,Эрдэнэцогт,Erdenetsogt,64020,46.41688455,100.8208535,64110,64080,64090,64030,62220,62210,65080,65120,NaN
+161,Архангай,National,Northern,Архангай,Arhangai,,,65000,,,,,,,,,,,
+162,Эрдэнэбулган,National,Northern,Архангай,Arhangai,Эрдэнэбулган,Erdenebulgan,65130,47.39717295,101.3550567,65170,65100,65080,65120,NaN,NaN,NaN,NaN,NaN
+163,Батцэнгэл,National,Northern,Архангай,Arhangai,Батцэнгэл,Battsengel,65100,47.7931195,101.9826078,65170,65150,65060,65030,65020,65070,65080,65130,NaN
+164,Булган,National,Northern,Архангай,Arhangai,Булган,Bulgan sum,65120,47.3187656,101.118486,65170,65130,65080,64020,NaN,NaN,NaN,NaN,NaN
+165,Жаргалант,National,Northern,Архангай,Arhangai,Жаргалант,Jargalant,65200,48.7268546,100.7704425,65230,65210,65150,65190,67190,NaN,NaN,NaN,NaN
+166,Ихтамир,National,Northern,Архангай,Arhangai,Ихтамир,Ihtamir,65170,47.59626505,101.2094021,65210,65150,65100,65130,65220,64110,65120,NaN,NaN
+167,Өгийнуур,National,Northern,Архангай,Arhangai,Өгийнуур,Ogiinuur,65020,47.6710846,102.7123833,65030,65100,65070,65040,65010,NaN,NaN,NaN,NaN
+168,Өлзийт,National,Northern,Архангай,Arhangai,Өлзийт,Olziit,65030,48.1001512,102.5600767,65060,65100,65020,63160,63150,NaN,NaN,NaN,NaN
+169,Өндөр-Улаан,National,Northern,Архангай,Arhangai,Өндөр-Улаан,Ondor-Ulaan,65210,48.040274,100.5025436,65220,65250,65230,65200,65150,65170,NaN,NaN,NaN
+170,Тариат,National,Northern,Архангай,Arhangai,Тариат,Tariat,65230,48.1553066,99.89178305,65200,65210,65250,65270,67250,67190,NaN,NaN,NaN
+171,Төвшрүүлэх,National,Northern,Архангай,Arhangai,Төвшрүүлэх,Tovshruuleh,65070,47.3851568,101.9153167,65080,65100,65020,65040,NaN,NaN,NaN,NaN,NaN
+172,Хайрхан,National,Northern,Архангай,Arhangai,Хайрхан,Hairhan,65060,48.60394195,101.9381046,65190,65150,65100,65030,63160,63180,NaN,NaN,NaN
+173,Хангай,National,Northern,Архангай,Arhangai,Хангай,Hangai,65250,47.85149905,99.42867275,65270,65230,65220,64180,64230,NaN,NaN,NaN,NaN
+174,Хашаат,National,Northern,Архангай,Arhangai,Хашаат,Hashaat,65010,47.44852155,103.1496477,65020,65040,63120,62020,62090,NaN,NaN,NaN,NaN
+175,Хотонт,National,Northern,Архангай,Arhangai,Хотонт,Hotont,65040,47.3662682,102.4693109,65020,65080,65070,65010,62090,62110,62210,NaN,NaN
+176,Цахир,National,Northern,Архангай,Arhangai,Цахир,Tsahir,65270,48.09999945,98.866667,65230,65250,81010,81030,81070,64230,NaN,NaN,NaN
+177,Цэнхэр,National,Northern,Архангай,Arhangai,Цэнхэр,Tsenher,65080,47.43793385,101.7553067,65100,65070,65040,65130,65120,64020,62210,NaN,NaN
+178,Цэцэрлэг,National,Northern,Архангай,Arhangai,Цэцэрлэг,Tsetserleg,65190,47.4703021,101.4678024,65200,65150,65060,63180,67060,67160,NaN,NaN,NaN
+179,Чулуут,National,Northern,Архангай,Arhangai,Чулуут,Chuluut,65220,47.53551505,100.2266836,65250,65210,65170,65170,64180,64110,NaN,NaN,NaN
+180,Эрдэнэмандал,National,Northern,Архангай,Arhangai,Эрдэнэмандал,Erdenemandal,65150,48.52675025,101.3748837,65200,65190,65060,65100,65170,65210,NaN,NaN,NaN
+181,Хөвсгөл,National,Northern,Хөвсгөл,Hovsgol,,,67000,,,,,,,,,,,
+182,Мөрөн,National,Northern,Хөвсгөл,Hovsgol,Мөрөн,Moron sum,67120,49.6375537,100.1534271,67090,67220,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+183,Алаг-Эрдэнэ,National,Northern,Хөвсгөл,Hovsgol,Алаг-Эрдэнэ,Alag-Erdene,67140,50.11437205,100.0433494,67200,67270,67170,67070,67080,67090,67220,NaN,NaN
+184,Арбулаг,National,Northern,Хөвсгөл,Hovsgol,Арбулаг,Arbulag,67200,49.9115368,99.44171905,67290,67270,67140,67220,67300,NaN,NaN,NaN,NaN
+185,Баянзүрх,National,Northern,Хөвсгөл,Hovsgol,Баянзүрх,Bayanzurh,67290,50.1756334,98.97823335,67270,67200,67300,NaN,NaN,NaN,NaN,NaN,NaN
+186,Бүрэнтогтох,National,Northern,Хөвсгөл,Hovsgol,Бүрэнтогтох,Burentogtoh,67220,49.6145746,99.58776,67300,67200,67140,67120,67160,67240,NaN,NaN,NaN
+187,Галт,National,Northern,Хөвсгөл,Hovsgol,Галт,Galt,67190,48.7714048,99.87391955,67160,67240,67250,65230,65200,65190,NaN,NaN,NaN
+188,Жаргалант,National,Northern,Хөвсгөл,Hovsgol,Жаргалант,Jargalant,67250,50.191007,99.834259,67240,67190,65230,81010,NaN,NaN,NaN,NaN,NaN
+189,Их-Уул,National,Northern,Хөвсгөл,Hovsgol,Их-Уул,Ih-Uul,67050,49.44569435,101.4690829,67010,67030,67090,67110,67060,63180,NaN,NaN,NaN
+190,Рашаант,National,Northern,Хөвсгөл,Hovsgol,Рашаант,Rashaant,67060,49.12070155,101.4455653,67050,67110,67160,63180,65190,NaN,NaN,NaN,NaN
+191,Ренчинлхүмбэ,National,Northern,Хөвсгөл,Hovsgol,Ренчинлхүмбэ,Renchinlhumbe,67170,51.1079934,99.66522215,67270,67260,67070,67140,67080,NaN,NaN,NaN,NaN
+192,Тариалан,National,Northern,Хөвсгөл,Hovsgol,Тариалан,Tarialan,67010,49.6177977,101.9988728,67030,67050,63180,63140,63100,NaN,NaN,NaN,NaN
+193,Тосонцэнгэл,National,Northern,Хөвсгөл,Hovsgol,Тосонцэнгэл,Tosontsengel,67110,49.47492805,100.8912276,67090,67050,67060,67160,NaN,NaN,NaN,NaN,NaN
+194,Төмөрбулаг,National,Northern,Хөвсгөл,Hovsgol,Төмөрбулаг,Tomorbulag,67160,49.2976603,100.2590633,67240,67220,67110,67060,67190,65190,NaN,NaN,NaN
+195,Түнэл,National,Northern,Хөвсгөл,Hovsgol,Түнэл,Tunel,67090,49.8586256,100.6275559,67140,67080,67030,67050,67110,67120,67220,NaN,NaN
+196,Улаан-Уул,National,Northern,Хөвсгөл,Hovsgol,Улаан-Уул,Ulaan-Uul,67270,50.6777234,99.22675615,67290,67200,67140,67170,67260,NaN,NaN,NaN,NaN
+197,Ханх,National,Northern,Хөвсгөл,Hovsgol,Ханх,Hanh,67070,51.5039331,100.6696988,67170,67080,67040,67140,NaN,NaN,NaN,NaN,NaN
+198,Цагааннуур,National,Northern,Хөвсгөл,Hovsgol,Цагааннуур,Tsagaannuur,67260,51.3619189,99.34674745,67170,67270,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+199,Цагаан-Уул,National,Northern,Хөвсгөл,Hovsgol,Цагаан-Уул,Tsagaan-Uul,67300,49.59688615,98.6963225,67290,67200,67220,67320,81010,NaN,NaN,NaN,NaN
+200,Цагаан-Үүр,National,Northern,Хөвсгөл,Hovsgol,Цагаан-Үүр,Tsagaan-Uur,67040,50.5407215,101.5231776,67070,67080,67030,NaN,NaN,NaN,NaN,NaN,NaN
+201,Цэцэрлэг,National,Northern,Хөвсгөл,Hovsgol,Цэцэрлэг,Tsetserleg,67320,49.52433005,97.74143455,67300,81160,81170,81180,81110,81050,81030,81010,NaN
+202,Чандмань-Өндөр,National,Northern,Хөвсгөл,Hovsgol,Чандмань-Өндөр,Chandmani-Ondor,67080,50.47490455,100.9325124,67140,67170,67070,67040,67030,67090,NaN,NaN,NaN
+203,Шинэ-Идэр,National,Northern,Хөвсгөл,Hovsgol,Шинэ-Идэр,Shine-Ider,67240,48.95159105,99.53523165,67220,67160,67190,67250,81010,NaN,NaN,NaN,NaN
+204,Эрдэнэбулган,National,Northern,Хөвсгөл,Hovsgol,Эрдэнэбулган,Erdenebulgan,67030,50.11361335,101.5841818,67040,67080,67090,67050,67010,63100,NaN,NaN,NaN
+205,Төвийн бүс,National,Central ,,,,,,,,,,,,,,,,
+206,Төв,National,Central ,Төв,Tuv,,,41000,,,,,,,,,,,
+207,Зуунмод,National,Central ,Төв,Tuv,Зуунмод,Zuunmod,41100,47.70120965,106.9652511,41090,11000,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+208,Алтанбулаг,National,Central ,Төв,Tuv,Алтанбулаг,Altanbulag,41130,47.69757315,106.4076305,41140,41250,41240,41210,41180,41090,11000,NaN,NaN
+209,Аргалант,National,Central ,Төв,Tuv,Аргалант,Argalant,41180,47.94552695,105.9033108,41210,41170,41130,11000,NaN,NaN,NaN,NaN,NaN
+210,Архуст,National,Central ,Төв,Tuv,Архуст,Arhust,41060,47.4707903,107.9188553,41040,41070,41020,41030,NaN,NaN,NaN,NaN,NaN
+211,Батсүмбэр,National,Central ,Төв,Tuv,Батсүмбэр,Batsumber,41120,48.3676654,106.7406749,41150,41160,41040,11000,NaN,NaN,NaN,NaN,NaN
+212,Баян,National,Central ,Төв,Tuv,Баян,Bayan,41070,47.25065885,107.5416469,41080,41090,41040,41060,41020,42040,11000,NaN,NaN
+213,Баяндэлгэр,National,Central ,Төв,Tuv,Баяндэлгэр,Bayandelger,41030,47.7290754,108.1089879,41010,41040,41060,41020,12300,23210,NaN,NaN,NaN
+214,Баянжаргалан,National,Central ,Төв,Tuv,Баянжаргалан,Bayanjargalan,41020,47.18094755,108.2617021,41030,41060,41070,23200,42010,42040,NaN,NaN,NaN
+215,Баян-Өнжүүл,National,Central ,Төв,Tuv,Баян-Өнжүүл,Bayan-Onjuul,41140,46.8798188,105.9378792,41260,41250,41130,41080,41090,48080,48110,48140,NaN
+216,Баянхангай,National,Central ,Төв,Tuv,Баянхангай,Bayanhangai,41210,47.9512471,105.5452251,41130,41240,41220,41170,41180,NaN,NaN,NaN,NaN
+217,Баянцагаан,National,Central ,Төв,Tuv,Баянцагаан,Bayantsagaan,41080,46.76990915,107.1439505,41140,41090,41070,48030,48080,NaN,NaN,NaN,NaN
+218,Баянцогт,National,Central ,Төв,Tuv,Баянцогт,Bayantsogt,41170,48.1263687,105.8109999,41180,41210,41220,41200,41160,11000,NaN,NaN,NaN
+219,Баянчандмань,National,Central ,Төв,Tuv,Баянчандмань,Bayanchandmani,41160,48.2188952,106.2902784,41170,41150,41120,11000,NaN,NaN,NaN,NaN,NaN
+220,Борнуур,National,Central ,Төв,Tuv,Борнуур,Bornuur,41150,48.46142365,106.2532855,41200,41160,41120,43030,43060,NaN,NaN,NaN,NaN
+221,Бүрэн,National,Central ,Төв,Tuv,Бүрэн,Buren,41260,46.92087015,105.0542307,41280,41290,41250,41140,48140,48150,NaN,NaN,NaN
+222,Дэлгэрхаан,National,Central ,Төв,Tuv,Дэлгэрхаан,Delgerhaan,41280,46.61878925,104.5667983,41290,41260,62020,62010,48150,NaN,NaN,NaN,NaN
+223,Жаргалант,National,Central ,Төв,Tuv,Жаргалант,Jargalant,41200,48.52200435,105.8763171,41190,41230,41220,41170,41150,43060,NaN,NaN,NaN
+224,Заамар,National,Central ,Төв,Tuv,Заамар,Zaamar,41270,48.216816,104.7731137,41230,41220,41240,63010,63060,63050,NaN,NaN,NaN
+225,Лүн,National,Central ,Төв,Tuv,Лүн,Lun,41240,47.86762385,105.2544736,41250,41270,41220,41210,41130,63010,NaN,NaN,NaN
+226,Мөнгөнморьт,National,Central ,Төв,Tuv,Мөнгөнморьт,Mongonmorit,41010,48.2050406,108.4802271,41040,41030,12300,23140,23210,NaN,NaN,NaN,NaN
+227,Өндөрширээт,National,Central ,Төв,Tuv,Өндөрширээт,Ondorshireet,41250,47.45403605,105.0548744,41240,41290,41260,41140,41130,63060,63010,NaN,NaN
+228,Сүмбэр,National,Central ,Төв,Tuv,Сүмбэр,Sumber,41190,48.80400805,105.9274722,41200,43140,43060,NaN,NaN,NaN,NaN,NaN,NaN
+229,Сэргэлэн,National,Central ,Төв,Tuv,Сэргэлэн,Sergelen,41090,47.61076305,107.0227575,41080,41130,41140,41040,41070,NaN000,NaN,NaN,NaN
+230,Угтаал,National,Central ,Төв,Tuv,Угтаал,Ugtaaltsaidam,41220,48.2583974,105.4177666,41270,41230,41200,41170,41210,41240,NaN,NaN,NaN
+231,Цээл,National,Central ,Төв,Tuv,Цээл,Tseel,41230,48.4556181,105.3088475,41270,41220,41200,43160,NaN,NaN,NaN,NaN,NaN
+232,Эрдэнэ,National,Central ,Төв,Tuv,Эрдэнэсант,Erdenesant,41290,47.3322192,104.4966316,41250,41260,41280,62020,63070,63060,NaN,NaN,NaN
+233,Эрдэнэсант,National,Central ,Төв,Tuv,Эрдэнэ,Erdene,41040,47.7199095,107.7998686,41120,41090,41070,41060,41030,41010,11000,43010,43030
+234,Говьсүмбэр,National,Central ,Говьсүмбэр,Govisymber,,,42000,,,,,,,,,,,
+235,Сүмбэр,National,Central ,Говьсүмбэр,Govisumber,Сүмбэр,Sumber,42010,46.445317,108.4747194,42040,42030,48020,48030,44130,23180,23200,41020,11
+236,Баянтал,National,Central ,Говьсүмбэр,Govisumber,Баянтал,Bayantal,42040,46.5701256,108.3039522,42010,48030,41070,41020,NaN,NaN,NaN,NaN,NaN
+237,Шивээговь,National,Central ,Говьсүмбэр,Govisumber,Шивээговь,Shiveegovi,42030,46.10906275,108.6081363,42010,44130,48020,NaN,NaN,NaN,NaN,NaN,NaN
+238,Сэлэнгэ,National,Central ,Сэлэнгэ,Selenge,,,43000,,,,,,,,,,,
+239,Сүхбаатар,National,Central ,Сэлэнгэ,Selenge,Сүхбаатар,Suhbaatar,43080,50.2230844,106.2099839,43040,43090,43070,NaN,NaN,NaN,NaN,NaN,NaN
+240,Алтанбулаг,National,Central ,Сэлэнгэ,Selenge,Алтанбулаг,Altanbulag,43040,50.29950415,106.5035462,43100,43110,43090,43080,43070,43050,43020,43010,NaN
+241,Баруунбүрэн,National,Central ,Сэлэнгэ,Selenge,Баруунбүрэн,Baruunburen,43170,49.16590605,104.8087549,43110,43120,43150,43140,43160,63030,61010,NaN,NaN
+242,Баянгол,National,Central ,Сэлэнгэ,Selenge,Баянгол,Bayangol,43060,48.89691,106.2166813,43030,43130,43140,45000,41190,NaN,NaN,NaN,NaN
+243,Ерөө,National,Central ,Сэлэнгэ,Selenge,Ерөө,Eroo,43010,49.7450865,106.6672469,43050,43040,43020,43030,45000,41010,41040,23140,NaN
+244,Жавхлант,National,Central ,Сэлэнгэ,Selenge,Жавхлант,Javhlant,43050,49.7423689,106.2592507,43070,43040,43010,45000,NaN,NaN,NaN,NaN,NaN
+245,Зүүнбүрэн,National,Central ,Сэлэнгэ,Selenge,Зүүнбүрэн,Zuunburen,43090,50.07017725,105.8795786,43110,43120,43070,43040,45000,NaN,NaN,NaN,NaN
+246,Мандал,National,Central ,Сэлэнгэ,Selenge,Мандал,Mandal,43030,48.8039737,106.9714309,43060,43010,45000,41150,41120,41040,NaN,NaN,NaN
+247,Орхон,National,Central ,Сэлэнгэ,Selenge,Орхон,Orhon,43140,49.14505085,105.3915882,43160,43170,43150,43130,43060,41190,41200,NaN,NaN
+248,Орхонтуул,National,Central ,Сэлэнгэ,Selenge,Орхонтуул,Orhontuul,43160,48.93701145,104.9682009,43170,43140,41200,41230,41270,63050,63040,NaN,NaN
+249,Сайхан,National,Central ,Сэлэнгэ,Selenge,Сайхан,Saihan,43130,49.09296355,105.5658889,43060,43140,43150,43120,45000,NaN,NaN,NaN,NaN
+250,Сант,National,Central ,Сэлэнгэ,Selenge,Сант,Sant,43150,49.25127865,105.3795719,43140,43170,43120,43130,11,NaN,NaN,NaN,NaN
+251,Түшиг,National,Central ,Сэлэнгэ,Selenge,Түшиг,Tushig,43100,50.32502455,105.0392103,43110,43040,63020,11,11,NaN,NaN,NaN,NaN
+252,Хүдэр,National,Central ,Сэлэнгэ,Selenge,Хүдэр,Huder,43020,49.777716,107.5160694,43040,43010,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+253,Хушаат,National,Central ,Сэлэнгэ,Selenge,Хушаат,Hushaat,43120,49.67545885,105.8259772,43110,43090,43130,43150,43170,NaN,NaN,NaN,NaN
+254,Цагааннуур,National,Central ,Сэлэнгэ,Selenge,Цагааннуур,Tsagaannuur,43110,50.1138195,105.4439878,43100,43090,43120,43040,63020,NaN,NaN,NaN,NaN
+255,Шаамар,National,Central ,Сэлэнгэ,Selenge,Шаамар,Shaamar,43070,50.07676315,106.1730122,43090,43040,43050,43080,NaN,NaN,NaN,NaN,NaN
+256,Дорноговь,National,Central ,Дорноговь,Dornogovi,,,44000,,,,,,,,,,,
+257,Сайншанд,National,Central ,Дорноговь,Dornogovi,Сайншанд,Sainshand,44100,44.89962215,110.1133062,44110,44070,44030,44050,NaN,NaN,NaN,NaN,NaN
+258,Айраг,National,Central ,Дорноговь,Dornogovi,Айраг,Airag,44120,45.80181595,109.3087292,44130,44090,44070,44110,48010,NaN,NaN,NaN,NaN
+259,Алтанширээ,National,Central ,Дорноговь,Dornogovi,Алтанширээ,Altanshiree,44070,45.5337684,110.475254,44090,44120,44110,44100,44030,44040,23080,NaN,NaN
+260,Даланжаргалан,National,Central ,Дорноговь,Dornogovi,Даланжаргалан,Dalanjargalan,44130,45.9282212,109.085784,44120,23180,42010,42030,48020,48010,NaN,NaN,NaN
+261,Дэлгэрэх,National,Central ,Дорноговь,Dornogovi,Дэлгэрэх,Delgereh,44040,45.80107115,111.2182259,44070,44030,23080,22160,22110,NaN,NaN,NaN,NaN
+262,Замын-Үүд,National,Central ,Дорноговь,Dornogovi,Замын-Үүд,Zamiin-Uud,44010,43.7193406,111.8998634,44020,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+263,Иххэт,National,Central ,Дорноговь,Dornogovi,Иххэт,Ihhet,44090,46.25072845,110.1642,44120,44070,23080,23180,NaN,NaN,NaN,NaN,NaN
+264,Мандах,National,Central ,Дорноговь,Dornogovi,Мандах,Mandah,44140,44.40251335,108.2443429,44110,44050,44060,44080,48010,48040,46020,NaN,NaN
+265,Өргөн,National,Central ,Дорноговь,Dornogovi,Өргөн,Orgon,44030,44.73086845,110.770203,44040,44070,44100,44020,22110,NaN,NaN,NaN,NaN
+266,Сайхандулаан,National,Central ,Дорноговь,Dornogovi,Сайхандулаан,Saihandulaan,44110,44.69286575,109.0228916,44120,44070,44100,44050,44140,48010,NaN,NaN,NaN
+267,Улаанбадрах,National,Central ,Дорноговь,Dornogovi,Улаанбадрах,Ulaanbadrah,44050,43.87176345,110.4236376,44020,44100,44110,44140,44060,NaN,NaN,NaN,NaN
+268,Хатанбулаг,National,Central ,Дорноговь,Dornogovi,Хатанбулаг,Hatanbulag,44080,43.1473081,109.143076,44140,44060,46010,NaN,NaN,NaN,NaN,NaN,NaN
+269,Хөвсгөл,National,Central ,Дорноговь,Dornogovi,Хөвсгөл сум,Hovsgol sum,44060,43.60802745,109.6335981,44050,44140,44080,NaN,NaN,NaN,NaN,NaN,NaN
+270,Эрдэнэ,National,Central ,Дорноговь,Dornogovi,Эрдэнэ,Erdene,44020,44.4466945,111.0904671,44030,44050,44010,NaN,NaN,NaN,NaN,NaN,NaN
+271,Дархан-Уул,National,Central ,Дархан-Уул,Darhan-Uul,,,45000,,,,,,,,,,,
+272,Дархан,National,Central ,Дархан-Уул,Darhan-Uul,Дархан,Darhan sum,45040,49.4716813,105.9603023,,,,,,,,,
+273,Орхон,National,Central ,Дархан-Уул,Darhan-Uul,Орхон,Orhon,45030,49.45526195,106.310894,,,,,,,,,
+274,Хонгор,National,Central ,Дархан-Уул,Darhan-Uul,Хонгор,Hongor,45020,49.3083903,105.9303475,,,,,,,,,
+275,Шарын гол,National,Central ,Дархан-Уул,Darhan-Uul,Шарын гол,Shariin gol,45010,49.25542325,106.4314699,43130,43120,43090,43070,43050,43010,43030,43060,NaN
+276,Өмнөговь,National,Central ,Өмнөговь,Omnogovi,,,46000,,,,,,,,,,,
+277,Даланзадгад,National,Central ,Өмнөговь,Omnogovi,Даланзадгад,Dalanzadgad,46080,43.5724654,104.4264821,46070,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+278,Баяндалай,National,Central ,Өмнөговь,Omnogovi,Баяндалай,Bayandalai,46030,42.9669108,106.1265993,46050,46070,46040,46020,46010,NaN,NaN,NaN,NaN
+279,Баян-Овоо,National,Central ,Өмнөговь,Omnogovi,Баян-Овоо,Bayan-Ovoo,46110,44.09738635,103.5446835,46090,46070,46120,46130,62190,NaN,NaN,NaN,NaN
+280,Булган,National,Central ,Өмнөговь,Omnogovi,Булган,Bulgan sum,46150,43.23235255,101.047268,46130,46140,64010,64130,64190,NaN,NaN,NaN,NaN
+281,Гурвантэс,National,Central ,Өмнөговь,Omnogovi,Гурвантэс,Gurvantes,46090,44.65418365,104.064324,46110,46070,46060,48170,48180,62080,NaN,NaN,NaN
+282,Мандал-Овоо,National,Central ,Өмнөговь,Omnogovi,Мандал-Овоо,Mandal-Ovoo,46020,44.0836996,106.8725967,46040,46030,46010,44080,44140,48040,NaN,NaN,NaN
+283,Манлай,National,Central ,Өмнөговь,Omnogovi,Манлай,Manlai,46140,43.14750455,102.1273935,46150,46130,46120,NaN,NaN,NaN,NaN,NaN,NaN
+284,Ноён,National,Central ,Өмнөговь,Omnogovi,Ноён,Noeon,46130,43.58709745,102.1889878,46150,46140,46110,46120,62190,NaN,NaN,NaN,NaN
+285,Номгон,National,Central ,Өмнөговь,Omnogovi,Номгон,Nomgon,46010,43.19763625,107.1961354,46030,46020,44080,NaN,NaN,NaN,NaN,NaN,NaN
+286,Сэврэй,National,Central ,Өмнөговь,Omnogovi,Сэврэй,Sevrei,46100,43.30547455,104.0758038,46120,46070,46050,NaN,NaN,NaN,NaN,NaN,NaN
+287,Ханбогд,National,Central ,Өмнөговь,Omnogovi,Ханбогд,Hanbogd,46060,44.4256273,105.3188896,46090,46070,46040,48040,48130,48170,NaN,NaN,NaN
+288,Ханхонгор,National,Central ,Өмнөговь,Omnogovi,Ханхонгор,Hanhongor,46040,43.7267775,105.5739892,46060,46070,46030,46020,48040,NaN,NaN,NaN,NaN
+289,Хүрмэн,National,Central ,Өмнөговь,Omnogovi,Хүрмэн,Hurmen,46120,43.4651293,103.5142565,46140,46130,46110,46070,46100,NaN,NaN,NaN,NaN
+290,Цогт-Овоо,National,Central ,Өмнөговь,Omnogovi,Цогт-Овоо,Tsogt-Ovoo,46050,42.84241355,105.1381517,46100,46070,46030,NaN,NaN,NaN,NaN,NaN,NaN
+291,Цогтцэций,National,Central ,Өмнөговь,Omnogovi,Цогтцэций,Tsogttsetsii,46070,43.78444705,104.4833708,46100,46120,46110,46090,46060,46040,46030,46050,46080
+292,Дундговь,National,Central ,Дундговь,Dundgovi,,,48000,,,,,,,,,,,
+293,Сайнцагаан,National,Central ,Дундговь,Dundgovi,Сайнцагаан,Saintsagaan,48090,45.70368155,106.2999344,48120,48140,48110,48080,48060,48040,NaN,NaN,NaN
+294,Адаацаг,National,Central ,Дундговь,Dundgovi,Адаацаг,Adaatseg,48140,46.39057545,105.7364989,48150,48120,48110,48090,41140,41260,NaN,NaN,NaN
+295,Баянжаргалан,National,Central ,Дундговь,Dundgovi,Баянжаргалан,Bayanjargalan,48020,45.7416486,107.9962921,48010,48060,48070,48030,44130,42030,42010,NaN,NaN
+296,Говь-Угтаал,National,Central ,Дундговь,Dundgovi,Говь-Угтаал,Govi-Ugtaal,48070,46.04467085,107.4909211,48060,48080,48030,48020,NaN,NaN,NaN,NaN,NaN
+297,Гурвансайхан,National,Central ,Дундговь,Dundgovi,Гурвансайхан,Gurvansaihan,48060,45.5308684,107.0424557,48040,48090,48080,48070,48020,48010,NaN,NaN,NaN
+298,Дэлгэрхангай,National,Central ,Дундговь,Dundgovi,Дэлгэрхангай,Delgerhangai,48170,45.2408103,104.8091626,48180,48150,48130,46090,46060,NaN,NaN,NaN,NaN
+299,Дэлгэрцогт,National,Central ,Дундговь,Dundgovi,Дэлгэрцогт,Delgertsogt,48110,46.12475635,106.3743067,48140,48090,48080,41140,NaN,NaN,NaN,NaN,NaN
+300,Дэрэн,National,Central ,Дундговь,Dundgovi,Дэрэн,Deren,48080,46.2095213,106.7101192,48110,48090,48060,48070,48030,41080,41140,NaN,NaN
+301,Луус,National,Central ,Дундговь,Dundgovi,Луус,Luus,48120,45.5063571,105.760342,48130,48150,48140,48090,48040,NaN,NaN,NaN,NaN
+302,Өлзийт,National,Central ,Дундговь,Dundgovi,Өлзийт,Ulziit,48040,44.9389208,106.3243533,48130,48120,48090,48060,48010,44140,46020,46040,46060
+303,Өндөршил,National,Central ,Дундговь,Dundgovi,Өндөршил,Ondorshil,48010,45.2301725,108.2811212,48040,48060,48020,44140,44110,44120,44130,NaN,NaN
+304,Сайхан-Овоо,National,Central ,Дундговь,Dundgovi,Сайхан-Овоо,Saihan-Ovoo,48180,45.45895615,103.8988638,48150,48170,62040,62060,62080,46090,NaN,NaN,NaN
+305,Хулд,National,Central ,Дундговь,Dundgovi,Хулд,Huld,48130,45.2222915,105.5587006,48170,48150,48120,48040,46060,NaN,NaN,NaN,NaN
+306,Цагаандэлгэр,National,Central ,Дундговь,Dundgovi,Цагаандэлгэр,Tsagaandelger,48030,46.40803705,107.639215,48080,48070,48020,42040,42010,41080,NaN,NaN,NaN
+307,Эрдэнэдалай,National,Central ,Дундговь,Dundgovi,Эрдэнэдалай,Erdenedalai,48150,46.00566565,104.9484015,48180,48170,48130,48120,48140,62040,62010,41280,41260
+308,Зүүн бүс,National,Eastern,,,,,,,,,,,,,,,,
+309,Дорнод,National,Eastern,Дорнод,Dornod,,,21000,,,,,,,,,,,
+310,Хэрлэн,National,Eastern,Дорнод,Dornod,Хэрлэн,Herlen,21060,48.13729705,114.5529413,21040,21050,21090,21020,NaN,NaN,NaN,NaN,NaN
+311,Баяндун,National,Eastern,Дорнод,Dornod,Баяндун,Bayandun,21120,49.2379641,113.3757733,21160,21130,21110,21100,NaN,NaN,NaN,NaN,NaN
+312,Баянтүмэн,National,Eastern,Дорнод,Dornod,Баянтүмэн,Bayantumen,21050,48.05257525,114.372139,21090,21130,21110,21040,NaN,NaN,NaN,NaN,NaN
+313,Баян-Уул,National,Eastern,Дорнод,Dornod,Баян-Уул,Bayan-Uul,21160,49.12609865,112.6732493,21120,21130,23030,23020,NaN,NaN,NaN,NaN,NaN
+314,Булган,National,Eastern,Дорнод,Dornod,Булган,Bulgan sum,21090,47.99632555,113.9363122,21150,21130,21050,21060,21020,22030,NaN,NaN,NaN
+315,Гурванзагал,National,Eastern,Дорнод,Dornod,Гурванзагал,Gurvanzagal,21080,49.14738285,114.8768663,21030,21100,21110,21040,NaN,NaN,NaN,NaN,NaN
+316,Дашбалбар,National,Eastern,Дорнод,Dornod,Дашбалбар,Dashbalbar,21100,49.54701325,114.396944,21120,21110,21080,21030,NaN,NaN,NaN,NaN,NaN
+317,Матад,National,Eastern,Дорнод,Dornod,Матад,Matad,21020,46.95551935,115.2955485,21010,21060,21090,22010,22030,NaN,NaN,NaN,NaN
+318,Сэргэлэн,National,Eastern,Дорнод,Dornod,Сэргэлэн,Sergelen,21110,48.5093677,114.0317775,21130,21120,21100,21080,21040,21050,NaN,NaN,NaN
+319,Халхгол,National,Eastern,Дорнод,Dornod,Халхгол,Halhgol,21010,47.62823465,118.6225176,21020,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+320,Хөлөнбуйр,National,Eastern,Дорнод,Dornod,Хөлөнбуйр,Holonbuir,21150,47.9232149,112.9646229,21130,21090,22030,22140,22150,23010,23020,NaN,NaN
+321,Цагаан-Овоо,National,Eastern,Дорнод,Dornod,Цагаан-Овоо,Tsagaan-Ovoo,21130,48.5627911,113.2342171,21160,21120,21110,21050,21090,21150,23020,NaN,NaN
+322,Чойбалсан,National,Eastern,Дорнод,Dornod,Чойбалсан,Choibalsan,21040,48.0841433,114.5329858,21030,21080,21110,21050,21060,NaN,NaN,NaN,NaN
+323,Чулуунхороот,National,Eastern,Дорнод,Dornod,Чулуунхороот,Chuluunhoroot,21030,49.8667712,115.7004977,21100,21080,21040,NaN,NaN,NaN,NaN,NaN,NaN
+324,Сүхбаатар,National,Eastern,Сүхбаатар,Suhbaatar,,,22000,,,,,,,,,,,
+325,Баруун-Урт,National,Eastern,Сүхбаатар,Suhbaatar,Баруун-Урт,Baruun-Urt,22070,46.6686616,113.2856942,22030,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+326,Асгат,National,Eastern,Сүхбаатар,Suhbaatar,Асгат,Asgat,22050,46.3624182,113.5809946,22090,22100,22030,22010,22040,NaN,NaN,NaN,NaN
+327,Баяндэлгэр,National,Eastern,Сүхбаатар,Suhbaatar,Баяндэлгэр,Bayandelger,22110,45.72427685,112.3503757,22160,22130,22100,22090,44040,44030,NaN,NaN,NaN
+328,Дарьганга,National,Eastern,Сүхбаатар,Suhbaatar,Дарьганга,Dariganga,22040,45.30565085,113.8516403,22060,22090,22050,22010,NaN,NaN,NaN,NaN,NaN
+329,Мөнххаан,National,Eastern,Сүхбаатар,Suhbaatar,Мөнххаан,Monhhaan,22140,46.9716428,112.0546461,22150,22160,22130,22030,21150,23060,23080,23010,NaN
+330,Наран,National,Eastern,Сүхбаатар,Suhbaatar,Наран,Naran,22060,45.13339015,113.6816633,22090,22040,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+331,Онгон,National,Eastern,Сүхбаатар,Suhbaatar,Онгон,Ongon,22090,45.45455165,113.0795288,22110,22100,22050,22040,22060,NaN,NaN,NaN,NaN
+332,Сүхбаатар,National,Eastern,Сүхбаатар,Suhbaatar,Сүхбаатар,Suhbaatar,22030,46.279404,113.8515549,22140,22130,22070,22100,22050,22010,21090,21150,21020
+333,Түвшинширээ,National,Eastern,Сүхбаатар,Suhbaatar,Түвшинширээ,Tuvshinshiree,22160,46.2038317,111.8076896,22140,22130,22110,23080,44040,NaN,NaN,NaN,NaN
+334,Түмэнцогт,National,Eastern,Сүхбаатар,Suhbaatar,Түмэнцогт,Tumentsogt,22150,47.57319545,112.3469209,22140,21150,23010,NaN,NaN,NaN,NaN,NaN,NaN
+335,Уулбаян,National,Eastern,Сүхбаатар,Suhbaatar,Уулбаян,Uulbayan,22130,46.4947431,112.3470284,22160,22110,22100,22030,22140,NaN,NaN,NaN,NaN
+336,Халзан,National,Eastern,Сүхбаатар,Suhbaatar,Халзан,Halzan,22100,46.1672297,112.9491735,22110,22130,22030,22050,22090,NaN,NaN,NaN,NaN
+337,Эрдэнэцагаан,National,Eastern,Сүхбаатар,Suhbaatar,Эрдэнэцагаан,Erdenetsagaan,22010,45.9040143,115.3659726,22030,22050,21020,NaN,NaN,NaN,NaN,NaN,NaN
+338,Хэнтий,National,Eastern,Хэнтий,Hentii,,,23000,,,,,,,,,,,
+339,Хэрлэн,National,Eastern,Хэнтий,Hentii,Хэрлэн,Herlen,23110,47.666938,110.3087854,23190,23140,23100,23040,23060,23130,NaN,NaN,NaN
+340,Батноров,National,Eastern,Хэнтий,Hentii,Батноров,Batnorov,23040,47.94687825,111.498313,23020,23010,23060,23110,23100,23070,NaN,NaN,NaN
+341,Батширээт,National,Eastern,Хэнтий,Hentii,Батширээт,Batshireet,23160,48.6901654,110.1921415,23140,23100,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+342,Баян-Адарга,National,Eastern,Хэнтий,Hentii,Баян-Адарга,Bayan-Adarga,23070,48.5554764,111.0869265,23100,23030,23020,23040,NaN,NaN,NaN,NaN,NaN
+343,Баянмөнх,National,Eastern,Хэнтий,Hentii,Баянмөнх,Bayanmonh,23170,46.89938095,109.7598982,23180,23200,23190,23130,23060,23080,NaN,NaN,NaN
+344,Баян-Овоо,National,Eastern,Хэнтий,Hentii,Баян-Овоо,Bayan-Ovoo,23010,47.78620075,112.1160365,23020,23040,23060,21150,22150,22140,NaN,NaN,NaN
+345,Баянхутаг,National,Eastern,Хэнтий,Hentii,Баянхутаг,Bayanhutag,23060,47.16990565,110.8181263,23080,23170,23130,23110,23040,23010,22140,NaN,NaN
+346,Биндэр,National,Eastern,Хэнтий,Hentii,Биндэр,Binder,23100,48.6173611,110.6017685,23160,23140,23110,23040,23070,23030,NaN,NaN,NaN
+347,Галшир,National,Eastern,Хэнтий,Hentii,Галшир,Galshir,23080,46.240533,110.8368373,23170,23060,22140,22160,44040,44070,44090,NaN,NaN
+348,Дадал,National,Eastern,Хэнтий,Hentii,Дадал,Dadal,23030,49.02030875,111.6234112,23100,23070,23020,21160,NaN,NaN,NaN,NaN,NaN
+349,Дархан,National,Eastern,Хэнтий,Hentii,Дархан сум,Darhan sum,23180,46.62401315,109.4131208,23200,23170,44090,44130,42010,NaN,NaN,NaN,NaN
+350,Дэлгэрхаан,National,Eastern,Хэнтий,Hentii,Дэлгэрхаан,Delgerhaan,23200,47.1759148,109.1959906,23210,23190,23170,23180,41020,NaN,NaN,NaN,NaN
+351,Жаргалтхаан,National,Eastern,Хэнтий,Hentii,Жаргалтхаан,Jargalthaan,23190,47.49357235,109.4736958,23200,23210,23140,23110,23130,23170,NaN,NaN,NaN
+352,Мөрөн,National,Eastern,Хэнтий,Hentii,Мөрөн,Moron sum,23130,47.38959835,110.285698,23170,23190,23110,23060,NaN,NaN,NaN,NaN,NaN
+353,Норовлин,National,Eastern,Хэнтий,Hentii,Норовлин,Norovlin,23020,48.6906184,111.9969893,23030,23070,23040,23010,21160,21130,21150,NaN,NaN
+354,Өмнөдэлгэр,National,Eastern,Хэнтий,Hentii,Өмнөдэлгэр,Omnodelger,23140,47.8899446,109.8135639,23210,23160,23100,23110,23190,41010,43010,NaN,NaN
+355,Цэнхэрмандал,National,Eastern,Хэнтий,Hentii,Цэнхэрмандал,Tsenhermandal,23210,47.7444021,109.0576745,23140,23190,23200,41030,41010,12300,NaN,NaN,NaN
+356,Бор-Өндөр,National,Eastern,Хэнтий,Hentii,Бор-Өндөр,Bor-Ondor,23220,46.25121205,109.4442558,23180,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+357,Улаанбаатар,National,Ulaanbaatar,,,,,11000,,,41090,41130,41180,41170,41160,41120,41040,NaN,NaN
+358,Багануур,National,Улаанбаатар,Улаанбаатар,Ulaanbaatar,Багануур,Baganuur,12000,,,41070,41090,,NaN,NaN,NaN,NaN,NaN,NaN
+359,Багахангай,National,Улаанбаатар,Улаанбаатар,Ulaanbaatar,Багахангай,Bagahangai,12300,,,41030,41010,23210,NaN,NaN,NaN,NaN,NaN,NaN
+360,Баянгол,National,Улаанбаатар,Улаанбаатар,Ulaanbaatar,Баянгол,Bayangol,16000,,,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+361,Баянзүрх,National,Улаанбаатар,Улаанбаатар,Ulaanbaatar,Баянзүрх,Bayanzurh,13000,,,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+362,Налайх,National,Улаанбаатар,Улаанбаатар,Ulaanbaatar,Налайх,Nalaih,12600,,,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+363,Сонгинохайрхан,National,Улаанбаатар,Улаанбаатар,Ulaanbaatar,Сонгинохайрхан,Songinohairhan,18000,,,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+364,Сүхбаатар,National,Улаанбаатар,Улаанбаатар,Ulaanbaatar,Сүхбаатар,Suhbaatar,14000,,,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+365,Хан-Уул,National,Улаанбаатар,Улаанбаатар,Ulaanbaatar,Хан-Уул,Han-Uul,17000,,,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+366,Чингэлтэй,National,Улаанбаатар,Улаанбаатар,Ulaanbaatar,Чингэлтэй,Chingeltei,15000,,,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
